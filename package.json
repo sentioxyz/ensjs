@@ -1,6 +1,6 @@
 {
-  "name": "@ensdomains/ensjs",
-  "version": "2.1.0",
+  "name": "@sentio/ensjs",
+  "version": "2.1.1",
   "description": "ens.js v2",
   "main": "dist/index.js",
   "repository": "ensdomains/ensjs",
@@ -52,6 +52,7 @@
     "content-hash": "^2.5.2",
     "eth-ens-namehash": "^2.0.8",
     "ethers": "^5.0.13",
-    "js-sha3": "^0.8.0"
+    "js-sha3": "^0.8.0",
+    "bs58": "^4.0.1"
   }
 }
